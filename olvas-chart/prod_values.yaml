@@ -1,0 +1,5 @@
+# My Custom values for Helm Chart
+container:
+  image: ziolechka/olvas-k8s-app:v4
+
+replicaCount: 4

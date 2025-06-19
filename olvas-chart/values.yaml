@@ -1,0 +1,6 @@
+# Default Values for my Helm Chart
+
+container:
+  image: ziolechka/olvas-k8s-app:latest
+
+replicaCount: 2
